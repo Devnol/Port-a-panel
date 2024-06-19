@@ -14,13 +14,16 @@ In this repo you can find all the 3D Models I made for the panel and the driver 
 - Magnets (TBD)
 
 ## Included parts
-3D models in f3d form to be imported into Autodesk Fusion are available in [Models](/Models)
-	- Driver\_Board: Set of rough silhouettes for the pcbs of the driver board Contains 3 distinct Components:
-		- Mainboard: The driver board itself
-		- Controller: A daughter board with tact switches for controlling the OSD
-		- Receiver: A daughter board with an IR receiver for the TV remote and a power LED
-	- Panel\_Physical: A 3D model of the actual panel based on the datasheet, used to create a negative for the 3d printed shell and as a size reference.
-Other Resources in images, drawings, pdfs etc. can be found under [Resources](/Resources)
+3D models in f3d form to be imported into Autodesk Fusion are available in [Models](/Models):
+- Driver\_Board: Set of rough silhouettes for the pcbs of the driver board Contains 3 distinct Components:
+	- Mainboard: The driver board itself
+	- Controller: A daughter board with tact switches for controlling the OSD
+	- Receiver: A daughter board with an IR receiver for the TV remote and a power LED
+- Panel\_Physical: A 3D model of the actual panel based on the datasheet, used to create a negative for the 3d printed shell and as a size reference.
+- Driver\_Enclosure: Casing for the display driver control board
+- Panel\_Enclosure: The actual frame of the monitor itself
+
+Other resources such as images, drawings, pdfs etc. can be found under [Resources](/Resources)
 
 ## External Resources
 - Inspiration from this project came mostly from some of DIY Perks' videos, you should definitely check out his channel, he makes some insane projects.
